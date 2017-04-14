@@ -1,0 +1,149 @@
+body{
+	margin: 0;
+
+}
+
+.main{
+	width: 1100px;
+	height: 650px;
+	background:#6A30D8;
+	margin:100px;
+	overflow: hidden;
+}
+
+.head{
+	height: 50px;
+	background: #051525;
+	overflow: hidden;
+
+}
+ul{
+	list-style-type: none;
+	text-align: center;
+
+
+}
+li{
+	margin: 0;
+	padding-left:14%;
+
+
+}
+a{
+	text-decoration: none;
+	font-size:20px;
+	float:left;
+	padding-left:20px;
+	padding-right:20px;
+	
+	
+	margin: 0 0 0 20px;
+	
+	color:white;
+
+
+}
+a:hover{
+	background-color:#595959;
+}
+
+.containt{
+	height: 550px;
+	background: #E6E6E6;
+	overflow: hidden;
+	
+}
+
+.left{
+	width: 810px;
+	height: 550px;
+	background:#272822;
+	float: left;
+	overflow: hidden;
+	
+}
+
+.ist{
+	overflow: hidden;
+	height: 33%;
+	background:red;
+
+	
+}
+
+.ise{
+	width:60%;
+	background:#2C2255;
+	float: left;
+	
+}
+
+.bse{
+	width: 40%;
+	background:#2C2255;
+	float: left;
+
+	
+}
+
+.tnd{
+	overflow: hidden;
+	height: 33%;
+	background:blue;
+	
+}
+
+.three{
+	overflow: hidden;
+	height: 34%;
+	background:green;
+	
+}
+
+.tr{
+	width:33.33%;
+	background:white;
+	float: left;
+	
+}
+
+.right{
+	width:290px;
+	height: 550px;
+	float: left;
+	background:#C4DC5D;
+	overflow: hidden;
+	
+
+	
+}
+
+.one{
+	height: 50%;
+	
+	background: #5DB635;
+	
+}
+
+.two{
+	height: 50%;
+	
+	background:#2C2255;
+	
+}
+
+.footer{
+	height: 50px;
+	background:#051525;
+	
+	
+}
+
+.{
+	
+}
+
+
+.{
+	
+}
